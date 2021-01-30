@@ -1,0 +1,73 @@
+@media {(min-width:375px) AND (max-width: width 1440px);}
+
+body{
+    background-color: hsl(257, 40%, 49%);
+    background-image: url(../workshop-2/images/bg-desktop.svg);
+}
+.image{
+    font-weight: 400;
+    height: 400px;
+    transform: translate(40px,170px);
+}
+.logo{
+    width:90px;
+    position: relative;
+    bottom:280px;
+    transform: translate(-520px,0px);
+    
+}
+.register{
+
+   text-align:justify;
+   position:relative;
+   left: 690px;
+   transform: translate(0px,-190px);
+   font-family:'specimen poppins' , sans-serif;
+   color:#FFF;
+}
+.title{
+    font-size: x-large;
+}
+.sous-titre{
+    font-size: x-large;
+    transform: translate(0px,11px);
+}
+.paragraph{
+    transform: translate(0px,30px);
+    font-size: 12px;
+}
+.botton{
+   
+    font-family: 'specimen poppins' , sans-serif;
+}
+input{
+    color:gray;
+     height:38px ;
+     width:150px;
+     background-color: beige;
+     border-radius: 21px;
+     transform: translate(0%,125%);
+
+}
+.facebook{
+    width:50px;
+    height:23px;
+    transform: translate(900px,0px);
+ 
+
+}
+.twitter{
+    width:25px;
+    height:20px;
+    transform: translate(900px,0px);
+}
+.instagram{
+   
+    width:25px;
+    height:20px;
+    transform: translate(905px,0px);
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
